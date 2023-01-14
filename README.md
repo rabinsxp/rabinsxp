@@ -17,7 +17,6 @@
 <br/>
 
 
-[![Rabins' GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabinsxp&show_icons=true)](https://github.com/rabinsxp)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabinsxp&" alt="Rabins Sharma Lamichhane" /></p>
