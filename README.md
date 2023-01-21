@@ -23,6 +23,9 @@
 
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=rabinsxp) Since 23 Sept, 2022
 
+<p>
+<a href="https://www.buymeacoffee.com/rabins"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="Rabins" /></a>
+</p>
 <!--
 **rabinsxp/rabinsxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
