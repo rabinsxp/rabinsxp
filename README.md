@@ -6,7 +6,7 @@
 - 🤔 &nbsp; IT-Professional | Technology Expert | Founded HostingSewa | Initiated Digital Nepal | Started Silicon Village Technology
 - 💼 &nbsp; Working as Sr. IT Manager at AITC International | CEO (Advisory) at SVT
 - 📫 &nbsp; How to reach me: rabinsrabins@gmail.com
-- 🥅 &nbsp; 2023 Goals: Learn Machine Learning | starting ITNEPAL.org | Further development of Host Mario
+- 🥅 &nbsp; 2023 Goals: Further development of Host Mario | Insight on AI and ML | working on ITNEPAL.org |
 
 <h3> 🛠 Tech Stack </h3>
 
