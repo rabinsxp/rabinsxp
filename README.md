@@ -2,6 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+- 🔭 &nbsp; I’m currently looking for remote work position 😉
 - 🤔 &nbsp; IT-Professional | Technology Expert | Founded HostingSewa | Initiated Digital Nepal | Started Silicon Village Technology
 - 💼 &nbsp; Working as Sr. IT Manager at AITC International | CEO (Advisory) at SVT
 - 📫 &nbsp; How to reach me: rabinsrabins@gmail.com
