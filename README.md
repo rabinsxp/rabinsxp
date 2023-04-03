@@ -11,7 +11,7 @@
 <h3> 🛠 Tech Stack </h3>
 
 - 💻 &nbsp; Linux (primary) | Ubuntu | Bash Scripting 
-- 🌐 &nbsp; Node.js  (primary) | React.js | Next.js  (primary) | JavaScript | TypeScript (primary)
+- 🌐 &nbsp; Node.js  (primary) | React.js | Next.js  (primary) | JavaScript | TypeScript (primary) | Laravel
 - 💈 &nbsp; TailwindCSS | ChakraUI | Bootstrap | Ant Design
 - 🛢 &nbsp; MySQL | PostgreSQL  (primary) | MongoDB
 
