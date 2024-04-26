@@ -2,11 +2,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently looking for remote work position 😉
-- 🤔 &nbsp; IT-Professional | Technology Expert | Founded HostingSewa | Initiated Digital Nepal | Started Silicon Village Technology
-- 💼 &nbsp; Working as Sr. IT Manager at AITC International | CEO (Advisory) at SVT
+- 🔭 &nbsp; I’m currently looking for a remote work position | Available for freelancing 😉
+- 🤔 &nbsp; ICT-Professional | Technology Expert | Technical Support
 - 📫 &nbsp; How to reach me: rabinsrabins@gmail.com
-- 🥅 &nbsp; 2023 Goals: Further development of Host Mario | Insight on AI and ML | working on ITNEPAL.org |
+- 🥅 &nbsp; 2024 Goals: Study | Insight on AI and ML | working on ITNEPAL.org |
 
 <h3> 🛠 Tech Stack </h3>
 
@@ -32,7 +31,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Host Mario, an ultimate web hosting automation solution.
+- 🔭 I’m working on Host Mario, an ultimate web hosting automation solution.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
