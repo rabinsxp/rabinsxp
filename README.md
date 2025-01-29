@@ -2,14 +2,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently looking for a remote work position | Available for freelancing 😉
-- 🤔 &nbsp; ICT-Professional | Technology Expert | Technical Support
+- 🔭 &nbsp; I’m currently looking for a part-time remote work position | Available for freelancing 😉
+- 🤔 &nbsp; ICT Professional | Technology Expert | Technical Support
 - 📫 &nbsp; How to reach me: rabinsrabins@gmail.com
-- 🥅 &nbsp; 2024 Goals: Study | Insight on AI and ML | working on ITNEPAL.org |
+- 🥅 &nbsp; 2025 Goals: Study Cyber Security (primary) | Insight on AI and ML (secondary) | working on Nepal.IT.com (primary) | ITNEPAL.org (secondary) |
 
 <h3> 🛠 Tech Stack </h3>
 
-- 💻 &nbsp; Linux (primary) | Ubuntu | Bash Scripting 
+- 💻 &nbsp; Linux: AlmaLinux (primary), Oracle Linux (secondary) | Ubuntu | Bash Scripting | Python Automation
 - 🌐 &nbsp; Node.js  (primary) | React.js | Next.js  (primary) | JavaScript | TypeScript (primary) | Laravel
 - 💈 &nbsp; TailwindCSS | ChakraUI | Bootstrap | Ant Design
 - 🛢 &nbsp; MySQL | PostgreSQL  (primary) | MongoDB
