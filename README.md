@@ -16,6 +16,7 @@
 
 <br/>
 
+<p> People are getting lots of issues when updating to TailwindCSS 4, Paid Support is available</p>
 
 
 
