@@ -6,6 +6,7 @@
 - 🤔 &nbsp; ICT Professional | Technology Expert | Technical Support
 - 📫 &nbsp; How to reach me: rabinsrabins@gmail.com
 - 🥅 &nbsp; 2025 Goals: Study Cyber Security (primary) | Insight on AI and ML (secondary) | working on Nepal.IT.com (primary) | ITNEPAL.org (secondary) |
+- 🥟 &nbsp; I make delicious authentic Mo:Mo (it's not Momos) and I am proud of it.
 
 <h3> 🛠 Tech Stack </h3>
 
