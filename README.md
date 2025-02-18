@@ -10,7 +10,7 @@
 <h3> 🛠 Tech Stack </h3>
 
 - 💻 &nbsp; Linux: AlmaLinux (primary), Oracle Linux (secondary) | Ubuntu | Bash Scripting | Python Automation
-- 🌐 &nbsp; Node.js  (primary) | React.js | Next.js  (primary) | JavaScript | TypeScript (primary) | Laravel
+- 🌐 &nbsp; Node.js  (primary) | React.js | | Vite (primary) | Next.js | JavaScript | TypeScript (primary) | Laravel
 - 💈 &nbsp; TailwindCSS | ChakraUI | Bootstrap | Ant Design
 - 🛢 &nbsp; MySQL | PostgreSQL  (primary) | MongoDB
 
